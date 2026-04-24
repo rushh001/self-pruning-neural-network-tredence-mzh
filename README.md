@@ -35,6 +35,10 @@ Interpretation:
 - Larger lambda produced stronger pruning.
 - In this run, stronger pruning also improved accuracy.
 
+Gate distribution for the best lambda run:
+
+![Best model gate distribution](outputs/best_model_gate_distribution.png)
+
 ## How To Run
 Use an activated virtual environment and run:
 
